@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.twistedblizzard.skyrimitemdatabase" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".Main"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Ammunition"
+            android:label="@string/title_activity_ammunition"
+            android:parentActivityName=".Main" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.twistedblizzard.skyrimitemdatabase.Main" />
+        </activity>
+        <activity
+            android:name=".ItemViewer"
+            android:label="@string/title_activity_item_viewer" >
+        </activity>
+        <activity
+            android:name=".LightArmour"
+            android:label="@string/title_activity_light_armour"
+            android:parentActivityName=".Main" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.twistedblizzard.skyrimitemdatabase.Main" />
+        </activity>
+        <activity
+            android:name=".LightArmour_Boots"
+            android:label="@string/title_activity_light_armour_boots"
+            android:parentActivityName=".LightArmour" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.twistedblizzard.skyrimitemdatabase.LightArmour" />
+        </activity>
+        <activity
+            android:name=".LightArmour_Armour"
+            android:label="@string/title_activity_light_armour_armour"
+            android:parentActivityName=".LightArmour" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.twistedblizzard.skyrimitemdatabase.LightArmour" />
+        </activity>
+        <activity
+            android:name=".Inventory"
+            android:label="@string/title_activity_inventory"
+            android:parentActivityName=".Main" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.twistedblizzard.skyrimitemdatabase.Main" />
+        </activity>
+    </application>
+
+</manifest>

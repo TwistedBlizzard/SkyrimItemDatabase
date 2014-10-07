@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="AmmunitionNames">
+        <item>Ancient Nord Bow</item>
+        <item>Bound Arrow</item>
+        <item>Daedric Arrow</item>
+        <item>Dragonbone Arrow</item>
+        <item>Dwarven Arrow</item>
+        <item>Dwarven Sphere Centurion Arrow</item>
+        <item>Ebony Arrow</item>
+        <item>Elven Arrow</item>
+        <item>Falmer Arrow</item>
+        <item>Forsworn Arrow</item>
+        <item>Glass Arrow</item>
+        <item>Iron Arrow</item>
+        <item>Nord Hero Arrow</item>
+        <item>Nordic Arrow</item>
+        <item>Orcish Arrow</item>
+        <item>Practice Arrow</item>
+        <item>Reikling Spear</item>
+        <item>Rusty Arrow</item>
+        <item>Steel Arrow</item>
+        <item>Stalhrim Arrow</item>
+
+        <item>Bloodcursed Elven Arrow</item>
+        <item>Sunhallowed Elven Arrow</item>
+
+        <item>Dwarven Bolt</item>
+        <item>Exploding Dwarven Bolt of Fire</item>
+        <item>Exploding Dwarven Bolt of Ice</item>
+        <item>Exploding Dwarven Bolt of Shock</item>
+        <item>Exploding Steel Bolt of Fire</item>
+        <item>Exploding Steel Bolt of Ice</item>
+        <item>Exploding Steel Bolt of Shock</item>
+        <item>Steel Bolt</item>
+        <item>Test Bolt</item>
+    </string-array>
+    <integer-array name="AmmunitionWeight">
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+
+        <item>0</item>
+        <item>0</item>
+
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+    <integer-array name="AmmunitionValue">
+        <item>1</item>
+        <item>0</item>
+        <item>8</item>
+        <item>9</item>
+        <item>4</item>
+        <item>0</item>
+        <item>7</item>
+        <item>5</item>
+        <item>1</item>
+        <item>1</item>
+        <item>6</item>
+        <item>1</item>
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+        <item>0</item>
+        <item>2</item>
+        <item>0</item>
+        <item>2</item>
+        <item>7</item>
+
+        <item>6</item>
+        <item>16</item>
+
+        <item>3</item>
+        <item>15</item>
+        <item>15</item>
+        <item>15</item>
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+        <item>1</item>
+        <item>1</item>
+    </integer-array>
+    <integer-array name="AmmunitionDamage">
+        <item>10</item>
+        <item>24</item>
+        <item>24</item>
+        <item>25</item>
+        <item>14</item>
+        <item>20</item>
+        <item>20</item>
+        <item>16</item>
+        <item>7</item>
+        <item>7</item>
+        <item>18</item>
+        <item>8</item>
+        <item>24</item>
+        <item>14</item>
+        <item>12</item>
+        <item>0</item>
+        <item>10</item>
+        <item>4</item>
+        <item>10</item>
+        <item>20</item>
+
+        <item>16</item>
+        <item>16</item>
+
+        <item>14</item>
+        <item>14</item>
+        <item>14</item>
+        <item>14</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+    </integer-array>
+    <string-array name="LightArmourNames">
+        <item>Chitin Armour</item>
+        <item>Dragonscale Armour</item>
+        <item>Elven Armour</item>
+        <item>Elven Gilded Armour</item>
+        <item>Fur Armour</item>
+        <item>Glass Armour</item>
+        <item>Hide Armour</item>
+        <item>Leather Armour</item>
+        <item>Scaled Armour</item>
+        <item>Scaled Horn Armour</item>
+        <item>Stalhrim Light Armour</item>
+        <item>Studded Armour</item>
+    </string-array>
+    <integer-array name="LightArmourWeight">
+        <item>4</item>
+        <item>10</item>
+        <item>4</item>
+        <item>4</item>
+        <item>6</item>
+        <item>7</item>
+        <item>5</item>
+        <item>6</item>
+        <item>6</item>
+        <item>6</item>
+        <item>7</item>
+        <item>6</item>
+    </integer-array>
+    <integer-array name="LightArmourValue">
+        <item>240</item>
+        <item>1500</item>
+        <item>225</item>
+        <item>550</item>
+        <item>50</item>
+        <item>900</item>
+        <item>50</item>
+        <item>125</item>
+        <item>350</item>
+        <item>350</item>
+        <item>925</item>
+        <item>75</item>
+    </integer-array>
+    <integer-array name="LightArmourRating">
+        <item>30</item>
+        <item>41</item>
+        <item>29</item>
+        <item>35</item>
+        <item>23</item>
+        <item>38</item>
+        <item>20</item>
+        <item>26</item>
+        <item>32</item>
+        <item>32</item>
+        <item>39</item>
+        <item>23</item>
+    </integer-array>
+    <string-array name="LightBootsNames">
+        <item>Chitin Boots</item>
+        <item>Dragonscale Boots</item>
+        <item>Elven Boots</item>
+        <item>Fur Boots</item>
+        <item>Fur Shoes</item>
+        <item>Glass Boots</item>
+        <item>Hide Boots</item>
+        <item>Leather Boots</item>
+        <item>Scaled Boots</item>
+        <item>Stalhrim Light Boots</item>
+    </string-array>
+</resources>

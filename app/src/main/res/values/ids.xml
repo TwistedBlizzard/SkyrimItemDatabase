@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="itemStats" type="id"/>
+    <item name="subtractButton" type="id"/>
+    <item name="numBox" type="id"/>
+    <item name="addButton" type="id"/>
+</resources>
