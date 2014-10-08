@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    //TODO: Migrate data to SQLite Database
+    //TODO: Migrate current data to SQLite Database
     <string-array name="AmmunitionNames">
         <item>Ancient Nord Bow</item>
         <item>Bound Arrow</item>
