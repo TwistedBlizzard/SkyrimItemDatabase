@@ -11,8 +11,7 @@ Known bugs:
 - Plus and minus buttons do nothing
 
 TODO:
+- Migrate the item database from arrays.xml to an SQLite database.
 - Make the Inventory class display the inventory.
 - Allow user input of number on Item Viewer.
 - Make the ItemViewer class save the current inventory.
-- Add the specs for light boots to arrays.xml
-- Add all of the other items to arrays.xml
