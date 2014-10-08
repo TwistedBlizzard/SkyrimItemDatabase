@@ -12,10 +12,9 @@ import android.widget.ListView;
 
 import java.util.ArrayList;
 
+//TODO: Make this display current inventory
 
 public class Inventory extends ListActivity {
-
-    ArrayList<String> currentItems = new ArrayList<String>();
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

@@ -148,6 +148,8 @@ public class ItemViewer extends ActionBarActivity {
         numBox.setGravity(Gravity.CENTER_HORIZONTAL);
         numBox.setLayoutParams(numBoxParams);
 
+        //TODO: Allow user input of number
+
         LinearLayout.LayoutParams addParams = new LinearLayout.LayoutParams(
                 0,
                 LinearLayout.LayoutParams.WRAP_CONTENT,
@@ -182,6 +184,8 @@ public class ItemViewer extends ActionBarActivity {
         relativeLayout.addView(invButtons, invButtonsParams);
 
         setContentView(relativeLayout, relLayoutParam);
+
+        //TODO: Save number of items in inventory to file
 
     }
 }
